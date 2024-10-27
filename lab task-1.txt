@@ -1,0 +1,81 @@
+1.  
+
+<products>
+  <product sr="1">
+    <product_id>11</product_id>
+      <product_name>Samsung</product_name>
+          <unit_price>35000 </unit_price>
+              <stock>50</stock>
+                <status>1</status>
+     </product>   
+    
+<product sr="2">
+    <product_id>20</product_id>
+      <product_name>HTC</product_name>
+          <unit_price>65300 </unit_price>
+              <stock>535</stock>
+                <status>0</status>
+     </product>
+
+<product sr="3">
+    <product_id>23</product_id>
+      <product_name>Nokia</product_name>
+          <unit_price>25100 </unit_price>
+              <stock>100</stock>
+                <status>1</status>
+     </product> 
+</products>   
+
+
+
+2.
+
+<students>
+  <student sr="1">
+    <student_sl_no>23</student_sl_no>
+      <student_name>John Carter</student_name>
+         <admission_date>25/12/2015</admission_date> 
+</student>
+
+ <student sr="2">
+    <student_sl_no>29</student_sl_no>
+      <student_name>Bob Marshal</student_name>
+         <admission_date>13/01/1999</admission_date>
+</student>
+
+ <student sr="3">
+    <student_sl_no>35</student_sl_no>
+      <student_name>Clark Kent</student_name>
+         <admission_date>17/06/2005</admission_date>
+</student>
+
+  </students>   
+
+3. 
+
+<employees>
+    <employee sr="1">
+        <employee_id> 1 </employee_id>
+        <employee_name> John Doe </employee_name>
+        <address> H# 38,R# 3,Banani,Dhaka </address>
+        <department> Sales </department>
+        <salary> $20000 </salary>
+    </employee>
+
+ <employee sr="2">
+        <employee_id> 2 </employee_id>
+        <employee_name> Mark Zuckerburg </employee_name>
+        <address> Flat# A/1,H# 20,R#18,Mirpur,Dhaka </address>
+        <department> Accounts </department>
+        <salary> $12000 </salary>
+    </employee>
+
+ <employee sr="1">
+        <employee_id> 3 </employee_id>
+        <employee_name> Ala Voski </employee_name>
+        <address> H# 38,R# 3, Motijheel </address>
+        <department> Human Resource </department>
+        <salary> $30000 </salary>
+    </employee>
+
+ </employees>
