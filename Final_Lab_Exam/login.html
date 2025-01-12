@@ -1,0 +1,24 @@
+<html>
+<head>
+    <title>Login Page</title>
+    <script src="logcheck.js"></script>
+</head>
+<body>
+    <h1 align="center">Login</h1>
+    <form method="post" action="logincheck.php" onsubmit="return validateLogin()">
+        <fieldset align="center">
+            <div>
+                Username: <input type="text" name="name" id="name" />
+            </div><br>
+            <div>
+                Password: <input type="password" name="password" id="password" />
+            </div><br>
+
+            <div>
+                <input type="submit" name="submit" value="Submit" /><br><br>
+                <a href="registration.html">Sign Up</a>
+            </div>
+        </fieldset>
+    </form>
+</body>
+</html>
