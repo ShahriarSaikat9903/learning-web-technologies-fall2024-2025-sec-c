@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Jan 12, 2025 at 10:59 AM
+-- Generation Time: Jan 12, 2025 at 12:00 PM
 -- Server version: 10.4.32-MariaDB
 -- PHP Version: 8.2.12
 
@@ -40,7 +40,14 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`empName`, `companyName`, `contactNo`, `userName`, `password`) VALUES
-('saikat', 'webtech', 1633019161, 'saikat', '1234');
+('saikat', 'webtech', 1633019161, 'saikat', '1234'),
+('saikat', 'webtech', 1633019162, 'saikat', '2222'),
+('fahad', 'webtech', 1633019163, 'fahad', '1212'),
+('saikat', 'webtech', 1633019164, 'saikat', '12345'),
+('saikat', 'webtech', 1633019164, 'saikat', '12345'),
+('moon', 'webtech', 1633019165, 'moon', '1414'),
+('saikat', 'webtech', 1633019166, 'saikat', '1010'),
+('saikat', 'webtech', 1633019167, 'saikat', '7878');
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
